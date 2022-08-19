@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.653e0319.js",
-    "static/js/787.0823a191.chunk.js": "/static/js/787.0823a191.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.653e0319.js.map": "/static/js/main.653e0319.js.map",
-    "787.0823a191.chunk.js.map": "/static/js/787.0823a191.chunk.js.map"
+    "main.css": "https://samarthg14.github.io/GreetApp_onReact/static/css/main.073c9b0a.css",
+    "main.js": "https://samarthg14.github.io/GreetApp_onReact/static/js/main.cd387214.js",
+    "static/js/787.0823a191.chunk.js": "https://samarthg14.github.io/GreetApp_onReact/static/js/787.0823a191.chunk.js",
+    "index.html": "https://samarthg14.github.io/GreetApp_onReact/index.html",
+    "main.073c9b0a.css.map": "https://samarthg14.github.io/GreetApp_onReact/static/css/main.073c9b0a.css.map",
+    "main.cd387214.js.map": "https://samarthg14.github.io/GreetApp_onReact/static/js/main.cd387214.js.map",
+    "787.0823a191.chunk.js.map": "https://samarthg14.github.io/GreetApp_onReact/static/js/787.0823a191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.653e0319.js"
+    "static/js/main.cd387214.js"
   ]
 }
